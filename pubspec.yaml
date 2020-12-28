@@ -23,6 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  fluttertoast: ^7.1.6
+  sqflite:
+  path:
 
 
   # The following adds the Cupertino Icons font to your application.
